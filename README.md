@@ -2,21 +2,6 @@
 <h3>Hello there <img src="./imgs/5yrvtl.png" hight="50" width="50"></h3>
 </div>
 
-<!--
-**Nicca42/Nicca42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am a Solidity developer, project and community manager all rolled into one. I enjoy writing educational articles for Solidity developers and generally onboarding peeps to web3! She/her
 
 Currently working [@optimism](https://github.com/ethereum-optimism) as an integrations engineer. HMU if you'd like to get your dapp live on an L2. 
@@ -28,7 +13,9 @@ Currently working [@optimism](https://github.com/ethereum-optimism) as an integr
 #### Or check out my articles! 
 
 1️⃣ → Beginner. May or may not require looking at code, building basic blocks of understanding (dadum tis). May include basic code-a-longs. 
+
 2️⃣ → Intermediate. Probably requires looking at code and or coding along. 
+
 3️⃣ → Advanced. Covering deep and specific topics with nuance in Solidity. 
 
 | Lvl | Article | Technical? | Description |

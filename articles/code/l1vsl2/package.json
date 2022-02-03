@@ -5,6 +5,11 @@
   "author": "Vee <@Vonnie610>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "build": "npx hardhat compile",
+    "l1-test-deploy": "npx hardhat run --network rinkeby scripts/deploy.js",
+    "l2-test-deploy": "npx hardhat run --network optimism_kovan scripts/deploy.js"
+  },
   "dependencies": {
     "hardhat": "^2.8.3"
   },
